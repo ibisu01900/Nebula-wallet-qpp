@@ -1,0 +1,11 @@
+{
+  "name": "wallet-bridge",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "intasend-node": "^1.0.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  }
+}
